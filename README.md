@@ -1,4 +1,4 @@
-# RPi0 Handheld
+# Raspberry Pi Zero Gaming Handheld
 
 ## Parts list
 - [Pi Zero W](https://www.adafruit.com/product/3400)
