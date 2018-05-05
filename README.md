@@ -3,6 +3,7 @@
 ## Parts list
 - [Pi Zero W](https://www.adafruit.com/product/3400)
 - [2.2" TFT Display](https://www.adafruit.com/product/1480)
+- ([2.8" TFT Display](https://www.adafruit.com/product/1770))
 - [PowerBoost 500 Charger](https://www.adafruit.com/product/1944)
 - [LiIon 1200mAh battery](https://www.adafruit.com/product/258)
 - [I2S Stereo Decoder](https://www.adafruit.com/product/3678)
