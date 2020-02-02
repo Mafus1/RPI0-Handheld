@@ -8,6 +8,7 @@
 - [LiIon 1200mAh battery](https://www.adafruit.com/product/258)
 - [I2S Stereo Decoder](https://www.adafruit.com/product/3678)
 - [Round Tactil Buttons](https://www.adafruit.com/product/1009)
+- [Power Button](https://www.adafruit.com/product/805)
 
 ### Missing parts
 - D-Pad
