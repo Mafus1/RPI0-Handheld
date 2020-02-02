@@ -12,7 +12,6 @@
 
 ### Missing parts
 - D-Pad
-- Power button
 
 ## Hardware and software setup
 - [ILI9340 SPI TFT Library for Raspberry](https://github.com/nopnop2002/ili9340spi_rpi)
