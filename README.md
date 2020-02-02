@@ -7,10 +7,10 @@
 - [PowerBoost 500 Charger](https://www.adafruit.com/product/1944)
 - [LiIon 1200mAh battery](https://www.adafruit.com/product/258)
 - [I2S Stereo Decoder](https://www.adafruit.com/product/3678)
+- [Round Tactil Buttons](https://www.adafruit.com/product/1009)
 
 ### Missing parts
 - D-Pad
-- A-B-Buttons
 - Power button
 
 ## Hardware and software setup
